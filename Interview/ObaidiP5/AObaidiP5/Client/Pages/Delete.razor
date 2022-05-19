@@ -1,0 +1,65 @@
+﻿@page "/delete/{orderID}"
+@inject NavigationManager NavigationManager
+@using AObaidiP5.Shared
+@inject HttpClient Http
+@inject IBoardService _boardService
+@inject NavigationManager NavigationManager
+
+
+<h2>Delete Order</h2>
+<br />
+<div class="col-md-4">
+    <table class="table">
+        <tr>
+            <td>Is Regular Foot</td>
+            <td>@snowBoard.IsRegularFoot</td>
+        </tr>
+        <tr>
+            <td>Include Bindings</td>
+            <td>@snowBoard.IncludeBindings</td>
+        </tr>
+        <tr>
+            <td>Binding Option</td>
+            <td>@snowBoard.BindingOption</td>
+        </tr>
+        <tr>
+            <td>Width</td>
+            <td>@snowBoard.Width</td>
+        </tr>
+        <tr>
+            <td>Lenght</td>
+            <td>@snowBoard.Lenght</td>
+        </tr>
+    </table>
+    <div class="form-group">
+        <input type="button" value="Delete" @onclick="@DeleteOrder" class="btn btn-primary" />
+        <input type="button" value="Cancel" @onclick="@Cancel" class="btn" />
+    </div>
+</div>
+
+@code {
+
+    [Parameter]
+    public string orderID { get; set; }
+
+    private bool readOnly = true;
+    SnowBoard snowBoard = new SnowBoard();
+
+    protected async override Task OnInitializedAsync()
+    {
+        await base.OnInitializedAsync();
+        snowBoard = await Http.GetFromJsonAsync<SnowBoard>("/api/SnowBoards/" + orderID);
+    }
+
+    // Delte Method
+    protected async Task DeleteOrder()
+    {
+        await Http.DeleteAsync("/api/SnowBoards/" + orderID);
+        NavigationManager.NavigateTo("cart");
+    }
+
+    void Cancel()
+    {
+        NavigationManager.NavigateTo("cart");
+    }
+}  

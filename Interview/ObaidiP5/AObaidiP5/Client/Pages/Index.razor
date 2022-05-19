@@ -1,0 +1,85 @@
+﻿@page "/"
+@using AObaidiP5.Shared
+@using BlazorInputFile
+@using System.IO
+@inject HttpClient client
+@inject IBoardService _boardService
+
+<h1 style="font-family:'Bookman Old Style'; font-size:x-large">Order Form</h1>
+<div>
+    <label for="reqularFooted">Regular Footed? </label>
+    <input type="checkbox" name="reqularFooted" id="reqularFooted" @bind="SnowBoard.IsRegularFoot" />
+
+</div>
+<div>
+    <label for="includeBinding">Include Binding? </label>
+    <input type="checkbox" @bind="SnowBoard.IncludeBindings" name="includeBinding" />
+    <div>
+        @if (SnowBoard.IncludeBindings == true)
+        {
+            @foreach (var option in BindingsOption)
+            {
+                <input type="radio" name="BindingsOption" value="@option" @onchange="OnChangeRadio" />
+                <label for="@option">@option</label>
+            }
+        }
+    </div>
+</div>
+<div>
+    <label for="length">Length: </label>
+    <input type="number" @bind="SnowBoard.Lenght" />
+</div>
+<div>
+    <label for="width"> Width: </label>
+    <input type="number" @bind="SnowBoard.Width" />
+</div>
+<div style="padding-top:5px;">
+    <InputFile OnChange="HandleSelection"></InputFile>
+</div>
+
+<div style="padding-top:5px;" class="form-group mb-0">
+    <button  type="submit" value="Submit"
+            @onclick="@(() => Submit())">
+        Submit
+    </button>
+</div>
+
+@code
+{
+    private SnowBoard SnowBoard = new SnowBoard();
+    public string[] BindingsOption { get; set; } = new[] { "Option1", "Option2", "Option3" };
+    private string status = "";
+
+    IFileListEntry file;
+
+    async Task HandleSelection(IFileListEntry[] files)
+    {
+        file = files.FirstOrDefault();
+        if (file != null)
+        {
+            var ms = new MemoryStream();
+            await file.Data.CopyToAsync(ms);
+
+            status = $"Upload{file.Size} bytes from {file.Name}";
+
+            var content = new MultipartFormDataContent{
+                        {
+                        new ByteArrayContent(ms.GetBuffer()),"\"upload\"",file.Name
+                        }
+                };
+            await client.PostAsync("upload", content);
+        }
+        SnowBoard.ImageFileName = file.Name;
+    }
+
+    private void OnChangeRadio(ChangeEventArgs args)
+    {
+        SnowBoard.BindingOption = args.Value.ToString();
+
+    }
+    private async Task Submit()
+    {
+        await _boardService.AddBoard(SnowBoard);
+
+    }
+}

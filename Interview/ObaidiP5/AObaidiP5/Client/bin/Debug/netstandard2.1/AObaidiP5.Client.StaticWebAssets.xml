@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\" />
+  <ContentRoot BasePath="_content/BlazorInputFile" Path="C:\Users\aobaidi\.nuget\packages\blazorinputfile\0.2.0\build\..\staticwebassets\" />
+  <ContentRoot BasePath="_content/Tewr.Blazor.FileReader" Path="C:\Users\aobaidi\.nuget\packages\tewr.blazor.filereader\2.1.0.20274\build\..\staticwebassets\" />
+</StaticWebAssets>

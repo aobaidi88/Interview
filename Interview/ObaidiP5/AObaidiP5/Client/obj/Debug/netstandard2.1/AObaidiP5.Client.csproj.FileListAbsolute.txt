@@ -1,0 +1,1333 @@
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Properties\launchSettings.json
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\AObaidiP5.Client.StaticWebAssets.xml
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\AObaidiP5.Client.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\AObaidiP5.Client.pdb
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Client.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazorise.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\BlazorInputFile.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazorise.DataGrid.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Shared.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Client.pdb
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Shared.pdb
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Client.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazorise.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\BlazorInputFile.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazorise.DataGrid.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Shared.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Client.pdb.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Shared.pdb.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\BlazorInputFile.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Blazorise.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Blazorise.Bootstrap.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Blazorise.DataGrid.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Blazorise.Icons.FontAwesome.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.HashCode.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Build.Framework.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Build.Tasks.Core.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Build.Utilities.Core.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.CSharp.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Data.SqlClient.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Caching.Memory.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Identity.Client.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Win32.Registry.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.AppContext.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Buffers.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.CodeDom.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Collections.Concurrent.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Collections.Immutable.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Collections.NonGeneric.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Collections.Specialized.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.ComponentModel.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.ComponentModel.Primitives.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.ComponentModel.TypeConverter.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Configuration.ConfigurationManager.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Diagnostics.DiagnosticSource.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Dynamic.Runtime.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.IO.Compression.ZipFile.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.IO.FileSystem.Primitives.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Linq.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Linq.Expressions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Memory.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Net.Http.Json.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.ObjectModel.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Private.DataContractSerialization.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.ILGeneration.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.Lightweight.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Reflection.Metadata.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Reflection.TypeExtensions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Resources.Extensions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Runtime.Numerics.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Runtime.Serialization.Formatters.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Runtime.Serialization.Json.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Runtime.Serialization.Primitives.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.AccessControl.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.Cng.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.OpenSsl.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.Pkcs.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.Primitives.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.ProtectedData.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.Xml.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Permissions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Principal.Windows.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Text.Encoding.CodePages.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Text.Json.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Text.RegularExpressions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Threading.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Threading.Tasks.Dataflow.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Xml.ReaderWriter.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Xml.XDocument.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Xml.XmlDocument.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Xml.XmlSerializer.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\AObaidiP5.Shared.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\AObaidiP5.Shared.pdb
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.csprojAssemblyReference.cache
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.AssemblyInfoInputs.cache
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.AssemblyInfo.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.csproj.CoreCompileInputs.cache
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.RazorComponent.input.cache
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Cart.razor.g.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\AObaidiP5.Client.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.TagHelpers.input.cache
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.TagHelpers.output.cache
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.RazorCoreGenerate.cache
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\Razor\Pages\Cart.razor.g.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\Razor\Pages\Counter.razor.g.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.RazorTargetAssemblyInfo.cache
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.csproj.CopyComplete
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\nV0LA1bP4e69oNpN8F3F6x7rVxzh19GeajJviecHJg4=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\EcDo-GQZkQrOT1Xd0jMPE3NwT5lsMq5DNsPxHVidLDQ=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\2VDvtH9VvQ83urdgfOGWUFHV4cy8E00JUtIqqtfbxhs=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\FuzsEzH9sQ12Pdrqqk5WbdB_Fzy18MOe1W7UT3PW_0c=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\q_HGbzWFWgtjFuiEwuUR1EmwN0w0pWbg9_N_o3YLQ3A=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\158xXzg17TGmKMk8Its2Zi5awTua_JPcxgL49yWK2cI=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\O_AClmxYmKcKCv-PvQk4tx2T7TlTwypImRCpMNwiwms=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\6q7n5uluNOxeOXWmdgNACFYCHlSFwLGXfvdaSx1fAJk=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\h2AapWWKHFNKXcAQwgQ-7TS-LA4HLtpF07O8PQq2etY=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\C0KrMmLQQE68cd1_FNwIOW89nNGbOH48hRxQAoSBaaA=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\QiblsyDO4mbRGL26p6usYVafAB62Y3YUyaFxcWuIf-M=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\E5aFNOABNNpvFr12DwsHB_zUxIj42ERxFTWgt_17NiU=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\1F-wUgXS24IEcgjEtPq9GSC4I7V9f94yI_TwDe7XlMI=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\DMpuPn3obzlarJujzk3yNzcISc75h8mdbxWKEjYbDL4=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\zTPnU1_9ypAxCxa2fYaOenSFRqQPNlOzqY11ZMnf0uU=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\OiB7aMJ4FWCMAGUuPV8m-9CZgx0Kap_ejQFSALUhpeQ=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\mQqyOIjuVduaLQ7ZyvDrChDLp8rTeQknIIWDzqsO4eY=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\3trD3kyUrc0a2IrNSfLT2rSZ35MMdD2qtqG_vk_U8QA=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\tY1dlliVr_yGzBF7d0z-iaulZfBJNaSrCKDD0RP2cc8=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\r8LuqDQgcB-c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\sMUxQEgnL-opNKBj6P9vNoOnnwb0545vj6DOruCVDcE=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\9jow9vaxoUfLO97UVpFL3dZS6G3luBqhDhij5a2_7HE=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\m125g3x-fLTTPL4LizHiiR5sMrxvTKwvSqC_Mrm87fc=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\PDEDrRFjyNVHyMoAVcE4H8ZDYvr2rvWvTwLwaNL8mww=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\T9JUjjXw3r4GqFcZTSffZNAIE1qK2zN9lLTAnHn1gw8=.hash
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Client.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazorise.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorInputFile.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazorise.DataGrid.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Shared.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Client.pdb.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Shared.pdb.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Client.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazorise.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorInputFile.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazorise.DataGrid.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Shared.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Client.pdb.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Shared.pdb.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.br
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\staticwebassets\AObaidiP5.Client.StaticWebAssets.Manifest.cache
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\staticwebassets\AObaidiP5.Client.StaticWebAssets.xml
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.pdb
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Properties\launchSettings.json
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\AObaidiP5.Client.StaticWebAssets.xml
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\AObaidiP5.Client.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\AObaidiP5.Client.pdb
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Client.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\BlazorInputFile.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Shared.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Client.pdb
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Shared.pdb
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Client.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\BlazorInputFile.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Shared.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Client.pdb.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Shared.pdb.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\BlazorInputFile.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.HashCode.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Build.Framework.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Build.Tasks.Core.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Build.Utilities.Core.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.CSharp.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Data.SqlClient.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Caching.Memory.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Identity.Client.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Win32.Registry.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.AppContext.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Buffers.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.CodeDom.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Collections.Concurrent.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Collections.Immutable.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Collections.NonGeneric.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Collections.Specialized.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.ComponentModel.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.ComponentModel.Primitives.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.ComponentModel.TypeConverter.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Configuration.ConfigurationManager.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Diagnostics.DiagnosticSource.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Dynamic.Runtime.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.IO.Compression.ZipFile.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.IO.FileSystem.Primitives.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Linq.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Linq.Expressions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Memory.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Net.Http.Json.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.ObjectModel.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Private.DataContractSerialization.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.ILGeneration.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.Lightweight.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Reflection.Metadata.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Reflection.TypeExtensions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Resources.Extensions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Runtime.Numerics.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Runtime.Serialization.Formatters.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Runtime.Serialization.Json.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Runtime.Serialization.Primitives.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.AccessControl.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.Cng.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.OpenSsl.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.Pkcs.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.Primitives.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.ProtectedData.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.Xml.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Permissions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Principal.Windows.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Text.Encoding.CodePages.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Text.Json.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Text.RegularExpressions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Threading.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Threading.Tasks.Dataflow.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Xml.ReaderWriter.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Xml.XDocument.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Xml.XmlDocument.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Xml.XmlSerializer.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\AObaidiP5.Shared.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\bin\Debug\netstandard2.1\AObaidiP5.Shared.pdb
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.csprojAssemblyReference.cache
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.AssemblyInfoInputs.cache
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.AssemblyInfo.cs
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.csproj.CoreCompileInputs.cache
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.RazorComponent.input.cache
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Cart.razor.g.cs
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\AObaidiP5.Client.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.TagHelpers.input.cache
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.TagHelpers.output.cache
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.RazorCoreGenerate.cache
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\Razor\Pages\Cart.razor.g.cs
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.RazorTargetAssemblyInfo.cache
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.csproj.CopyComplete
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\EcDo-GQZkQrOT1Xd0jMPE3NwT5lsMq5DNsPxHVidLDQ=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\qHdxgeB0nKE8odGQX_eGQwM_lg3dEkT2XpjVyoAB9bE=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\m7Q_cF5-ji3OMfdGlCuE8pQ-iM_kxNHLq-IEWVvIaOg=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\PBU5INASuPqDlIS0ic0TMSDwIZQ6BIM6N0S0K5FhZHE=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\C0KrMmLQQE68cd1_FNwIOW89nNGbOH48hRxQAoSBaaA=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\chwXXQAiDDw_uZnpX2M7XkAv-DQY9Rs1_gAaOcUOuyg=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\Vio27NdWW1HmLCdcXVEyHpx4LnRfNjOlElipIlxM-uQ=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\6eWNJmObgA9g37KbjpD_lhTy18eoW5cLdTcnDGGojBU=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\zTPnU1_9ypAxCxa2fYaOenSFRqQPNlOzqY11ZMnf0uU=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\OiB7aMJ4FWCMAGUuPV8m-9CZgx0Kap_ejQFSALUhpeQ=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\mQqyOIjuVduaLQ7ZyvDrChDLp8rTeQknIIWDzqsO4eY=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\3trD3kyUrc0a2IrNSfLT2rSZ35MMdD2qtqG_vk_U8QA=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\tY1dlliVr_yGzBF7d0z-iaulZfBJNaSrCKDD0RP2cc8=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\r8LuqDQgcB-c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\sMUxQEgnL-opNKBj6P9vNoOnnwb0545vj6DOruCVDcE=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\cKAZb7xh11kZxyizcq_t1c8646D5ZoQNvEwOg3z_DX8=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\WWbXs0mAFxKeGt-O3ykPeK1wQ8t9pk2_q-zJnpmcEwY=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Client.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorInputFile.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Shared.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Client.pdb.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Shared.pdb.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Client.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorInputFile.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Shared.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Client.pdb.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Shared.pdb.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.br
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\staticwebassets\AObaidiP5.Client.StaticWebAssets.Manifest.cache
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\staticwebassets\AObaidiP5.Client.StaticWebAssets.xml
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.pdb
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\FwkknslkJCT4te1z8DXzPQXQVRGq5keEcYPFGLxtd18=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\ODClsRo0_2_1NKYKT0594J411nE9NwxPUCoK-bCUH-8=.hash
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\vg_ohajGKYGGeo1V4OEvSEPgouwD9n6jW854nUXOShg=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Properties\launchSettings.json
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\AObaidiP5.Client.StaticWebAssets.xml
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\AObaidiP5.Client.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\AObaidiP5.Client.pdb
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Client.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\BlazorInputFile.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Shared.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Client.pdb
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Shared.pdb
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Client.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\BlazorInputFile.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Shared.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Client.pdb.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\AObaidiP5.Shared.pdb.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\BlazorInputFile.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.HashCode.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Build.Framework.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Build.Tasks.Core.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Build.Utilities.Core.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.CSharp.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Data.SqlClient.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Caching.Memory.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Identity.Client.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\Microsoft.Win32.Registry.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.AppContext.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Buffers.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.CodeDom.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Collections.Concurrent.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Collections.Immutable.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Collections.NonGeneric.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Collections.Specialized.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.ComponentModel.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.ComponentModel.Primitives.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.ComponentModel.TypeConverter.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Configuration.ConfigurationManager.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Diagnostics.DiagnosticSource.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Dynamic.Runtime.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.IO.Compression.ZipFile.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.IO.FileSystem.Primitives.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Linq.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Linq.Expressions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Memory.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Net.Http.Json.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.ObjectModel.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Private.DataContractSerialization.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.ILGeneration.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.Lightweight.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Reflection.Metadata.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Reflection.TypeExtensions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Resources.Extensions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Runtime.Numerics.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Runtime.Serialization.Formatters.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Runtime.Serialization.Json.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Runtime.Serialization.Primitives.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.AccessControl.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.Cng.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.OpenSsl.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.Pkcs.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.Primitives.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.ProtectedData.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.Xml.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Permissions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Security.Principal.Windows.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Text.Encoding.CodePages.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Text.Json.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Text.RegularExpressions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Threading.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Threading.Tasks.Dataflow.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Xml.ReaderWriter.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Xml.XDocument.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Xml.XmlDocument.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\System.Xml.XmlSerializer.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\AObaidiP5.Shared.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\bin\Debug\netstandard2.1\AObaidiP5.Shared.pdb
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.csprojAssemblyReference.cache
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.AssemblyInfoInputs.cache
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.AssemblyInfo.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.RazorComponent.input.cache
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Cart.razor.g.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.RazorTargetAssemblyInfo.cache
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.csproj.CopyComplete
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\EcDo-GQZkQrOT1Xd0jMPE3NwT5lsMq5DNsPxHVidLDQ=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\qHdxgeB0nKE8odGQX_eGQwM_lg3dEkT2XpjVyoAB9bE=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\m7Q_cF5-ji3OMfdGlCuE8pQ-iM_kxNHLq-IEWVvIaOg=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\PBU5INASuPqDlIS0ic0TMSDwIZQ6BIM6N0S0K5FhZHE=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\C0KrMmLQQE68cd1_FNwIOW89nNGbOH48hRxQAoSBaaA=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\Vio27NdWW1HmLCdcXVEyHpx4LnRfNjOlElipIlxM-uQ=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\6eWNJmObgA9g37KbjpD_lhTy18eoW5cLdTcnDGGojBU=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\zTPnU1_9ypAxCxa2fYaOenSFRqQPNlOzqY11ZMnf0uU=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\OiB7aMJ4FWCMAGUuPV8m-9CZgx0Kap_ejQFSALUhpeQ=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\mQqyOIjuVduaLQ7ZyvDrChDLp8rTeQknIIWDzqsO4eY=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\3trD3kyUrc0a2IrNSfLT2rSZ35MMdD2qtqG_vk_U8QA=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\tY1dlliVr_yGzBF7d0z-iaulZfBJNaSrCKDD0RP2cc8=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\r8LuqDQgcB-c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\sMUxQEgnL-opNKBj6P9vNoOnnwb0545vj6DOruCVDcE=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\cKAZb7xh11kZxyizcq_t1c8646D5ZoQNvEwOg3z_DX8=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Client.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorInputFile.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Shared.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Client.pdb.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Shared.pdb.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Client.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\BlazorInputFile.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Shared.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Client.pdb.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\AObaidiP5.Shared.pdb.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\staticwebassets\AObaidiP5.Client.StaticWebAssets.Manifest.cache
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\staticwebassets\AObaidiP5.Client.StaticWebAssets.xml
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.pdb
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Tewr.Blazor.FileReader.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Tewr.Blazor.FileReader.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Client\bin\Debug\netstandard2.1\Tewr.Blazor.FileReader.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.csproj.CoreCompileInputs.cache
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Client\obj\Debug\netstandard2.1\RazorDeclaration\AObaidiP5.Client.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.TagHelpers.input.cache
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.TagHelpers.output.cache
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Client\obj\Debug\netstandard2.1\AObaidiP5.Client.RazorCoreGenerate.cache
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Client\obj\Debug\netstandard2.1\Razor\Pages\Cart.razor.g.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Client\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Client\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Client\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Client\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Client\obj\Debug\netstandard2.1\integrity\Zyzqe-EA0OHa2D757deFsdytV-SRN7xEwHwtMhgb7VM=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Tewr.Blazor.FileReader.dll.gz
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Tewr.Blazor.FileReader.dll.br
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Delete.razor.g.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Edit.razor.g.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\Razor\Pages\Delete.razor.g.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\Razor\Pages\Edit.razor.g.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\FBnjBqtASyZQZuTvtrQk2CfvVhqyjn29mMoWbspAtn4=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\YJvBWp9afU1u4ph0vEb2au0RGIQGOht6ZP5Jtbr0iqk=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\SRuRp_RrqN2dMPQT9VP1TJ4URAhwsJuj50anNCSkYHU=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\c2z07YoE19Q-EYCO9BiTgZc3_1fw9hSHnkn6Bl86jyI=.hash
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Client\obj\Debug\netstandard2.1\integrity\pvkThhHeHDNQO58lqfTN9MDIcTb-ti9lYALlA2uZaWw=.hash

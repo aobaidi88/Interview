@@ -1,0 +1,258 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Server\\AObaidiP5.Server.csproj": {}
+  },
+  "projects": {
+    "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Client\\AObaidiP5.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Client\\AObaidiP5.Client.csproj",
+        "projectName": "AObaidiP5.Client",
+        "projectPath": "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Client\\AObaidiP5.Client.csproj",
+        "packagesPath": "C:\\Users\\aobaidi\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aobaidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Shared\\AObaidiP5.Shared.csproj": {
+                "projectPath": "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Shared\\AObaidiP5.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "BlazorInputFile": {
+              "target": "Package",
+              "version": "[0.2.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Tewr.Blazor.FileReader": {
+              "target": "Package",
+              "version": "[2.1.0.20274, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Server\\AObaidiP5.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Server\\AObaidiP5.Server.csproj",
+        "projectName": "AObaidiP5.Server",
+        "projectPath": "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Server\\AObaidiP5.Server.csproj",
+        "packagesPath": "C:\\Users\\aobaidi\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aobaidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Client\\AObaidiP5.Client.csproj": {
+                "projectPath": "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Client\\AObaidiP5.Client.csproj"
+              },
+              "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Shared\\AObaidiP5.Shared.csproj": {
+                "projectPath": "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Shared\\AObaidiP5.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Tewr.Blazor.FileReader": {
+              "target": "Package",
+              "version": "[2.1.0.20274, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Shared\\AObaidiP5.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Shared\\AObaidiP5.Shared.csproj",
+        "projectName": "AObaidiP5.Shared",
+        "projectPath": "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Shared\\AObaidiP5.Shared.csproj",
+        "packagesPath": "C:\\Users\\aobaidi\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\C#_.NET II\\Projects\\Project5\\ObaidiP5\\AObaidiP5\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aobaidi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.Build.Tasks.Core": {
+              "target": "Package",
+              "version": "[16.8.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Tewr.Blazor.FileReader": {
+              "target": "Package",
+              "version": "[2.1.0.20274, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

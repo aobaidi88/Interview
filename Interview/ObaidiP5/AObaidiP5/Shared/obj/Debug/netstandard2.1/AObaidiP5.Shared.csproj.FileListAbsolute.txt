@@ -1,0 +1,26 @@
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Shared\bin\Debug\netstandard2.1\AObaidiP5.Shared.deps.json
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Shared\bin\Debug\netstandard2.1\AObaidiP5.Shared.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Shared\bin\Debug\netstandard2.1\AObaidiP5.Shared.pdb
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Shared\obj\Debug\netstandard2.1\AObaidiP5.Shared.csprojAssemblyReference.cache
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Shared\obj\Debug\netstandard2.1\AObaidiP5.Shared.AssemblyInfoInputs.cache
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Shared\obj\Debug\netstandard2.1\AObaidiP5.Shared.AssemblyInfo.cs
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Shared\obj\Debug\netstandard2.1\AObaidiP5.Shared.csproj.CoreCompileInputs.cache
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Shared\obj\Debug\netstandard2.1\AObaidiP5.Shared.dll
+D:\C#\C#_.NET II\Projects\ObaidiP5\AObaidiP5\AObaidiP5\Shared\obj\Debug\netstandard2.1\AObaidiP5.Shared.pdb
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Shared\bin\Debug\netstandard2.1\AObaidiP5.Shared.deps.json
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Shared\bin\Debug\netstandard2.1\AObaidiP5.Shared.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Shared\bin\Debug\netstandard2.1\AObaidiP5.Shared.pdb
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Shared\obj\Debug\netstandard2.1\AObaidiP5.Shared.csprojAssemblyReference.cache
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Shared\obj\Debug\netstandard2.1\AObaidiP5.Shared.AssemblyInfoInputs.cache
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Shared\obj\Debug\netstandard2.1\AObaidiP5.Shared.AssemblyInfo.cs
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Shared\obj\Debug\netstandard2.1\AObaidiP5.Shared.csproj.CoreCompileInputs.cache
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Shared\obj\Debug\netstandard2.1\AObaidiP5.Shared.dll
+D:\C#\C#_.NET II\ObaidiP5 - Copy\AObaidiP5\Shared\obj\Debug\netstandard2.1\AObaidiP5.Shared.pdb
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Shared\bin\Debug\netstandard2.1\AObaidiP5.Shared.deps.json
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Shared\bin\Debug\netstandard2.1\AObaidiP5.Shared.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Shared\bin\Debug\netstandard2.1\AObaidiP5.Shared.pdb
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Shared\obj\Debug\netstandard2.1\AObaidiP5.Shared.AssemblyInfoInputs.cache
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Shared\obj\Debug\netstandard2.1\AObaidiP5.Shared.AssemblyInfo.cs
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Shared\obj\Debug\netstandard2.1\AObaidiP5.Shared.dll
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\AObaidiP5\Shared\obj\Debug\netstandard2.1\AObaidiP5.Shared.pdb
+D:\C#\C#_.NET II\Projects\Project5\ObaidiP5\Aobaidip5\Shared\obj\Debug\netstandard2.1\AObaidiP5.Shared.csproj.CoreCompileInputs.cache

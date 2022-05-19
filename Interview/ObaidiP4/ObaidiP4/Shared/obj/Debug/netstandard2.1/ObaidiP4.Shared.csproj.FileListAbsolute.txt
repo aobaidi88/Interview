@@ -1,0 +1,8 @@
+D:\C#\C#_.NET II\Projects\Project4\ObaidiP4\ObaidiP4\Shared\bin\Debug\netstandard2.1\ObaidiP4.Shared.deps.json
+D:\C#\C#_.NET II\Projects\Project4\ObaidiP4\ObaidiP4\Shared\bin\Debug\netstandard2.1\ObaidiP4.Shared.dll
+D:\C#\C#_.NET II\Projects\Project4\ObaidiP4\ObaidiP4\Shared\bin\Debug\netstandard2.1\ObaidiP4.Shared.pdb
+D:\C#\C#_.NET II\Projects\Project4\ObaidiP4\ObaidiP4\Shared\obj\Debug\netstandard2.1\ObaidiP4.Shared.AssemblyInfoInputs.cache
+D:\C#\C#_.NET II\Projects\Project4\ObaidiP4\ObaidiP4\Shared\obj\Debug\netstandard2.1\ObaidiP4.Shared.AssemblyInfo.cs
+D:\C#\C#_.NET II\Projects\Project4\ObaidiP4\ObaidiP4\Shared\obj\Debug\netstandard2.1\ObaidiP4.Shared.dll
+D:\C#\C#_.NET II\Projects\Project4\ObaidiP4\ObaidiP4\Shared\obj\Debug\netstandard2.1\ObaidiP4.Shared.pdb
+D:\C#\C#_.NET II\Projects\Project4\ObaidiP4\ObaidiP4\Shared\obj\Debug\netstandard2.1\ObaidiP4.Shared.csproj.CoreCompileInputs.cache

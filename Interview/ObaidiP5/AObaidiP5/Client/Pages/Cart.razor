@@ -1,0 +1,53 @@
+﻿@page "/cart"
+@using AObaidiP5.Shared
+@inject HttpClient Http
+@inject IBoardService _boardService
+@inject NavigationManager NavigationManager
+
+<h3>Cart</h3>
+@if (boards == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{   <a href="/"> Add new Order</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Order ID</th>
+                <th>Regular Foot</th>
+                <th>Binding</th>
+                <th>Binding Option</th>
+                <th>Lenght</th>
+                <th>Width</th>
+                <th>Image File Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var snow in boards)
+            {
+                <tr>
+                    <td>@snow.OrderId</td>
+                    <td>@snow.IsRegularFoot</td>
+                    <td>@snow.IncludeBindings</td>
+                    <td>@snow.BindingOption</td>
+                    <td>@snow.Lenght</td>
+                    <td>@snow.Width</td>
+                    <td>@snow.ImageFileName</td>
+                     <td><a href='/edit/@snow.OrderId'>Edit</a></td>
+                     <td><a href='/delete/@snow.OrderId'>Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@code {
+
+    private List<SnowBoard> boards;
+
+    protected async override Task OnInitializedAsync()
+    {
+        await base.OnInitializedAsync();
+        boards = await _boardService.GetBoards();
+    }
+}

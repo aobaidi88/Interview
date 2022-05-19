@@ -1,0 +1,78 @@
+﻿@page "/edit/{orderID}"
+@using AObaidiP5.Shared
+@inject HttpClient Http
+@inject IBoardService _boardService
+@inject NavigationManager NavigationManager
+
+
+<h3>Edit your order</h3>
+<hr />
+<form>
+<div class="row">
+<div class="col-md-8">
+    <div>
+        <label for="reqularFooted">Regular Footed? </label>
+        <input type="checkbox" name="reqularFooted" id="reqularFooted" @bind="snowBoard.IsRegularFoot" />
+    </div>
+    <div class="form-group">
+        <label for="includeBinding">Include Binding? </label>
+        <input type="checkbox" @bind="snowBoard.IncludeBindings" name="includeBinding" />
+        <div>
+            @if (snowBoard.IncludeBindings == true)
+            {
+                @foreach (var option in BindingsOption)
+                {
+                    <input type="radio" name="BindingsOption" value="@option" @onchange="OnChangeRadio" />
+                    <label for="@option">@option</label>
+                }
+            }
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label">Lenght</label>
+        <input type="number" class="form-control" @bind="@snowBoard.Lenght" />
+        <div class="form-group">
+            <label  class="control-label">Width</label>
+            <input type="number"class="form-control" @bind="@snowBoard.Width" />
+        </div>
+    </div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+    <div class="form-group">
+        <input type="button" class="btn btn-primary" @onclick="@UpdateOrder" value="Save" />
+        <input type="button" class="btn" @onclick="@Cancel" value="Cancel" />
+    </div>
+</div>
+</div>
+</form>
+@code {
+    [Parameter]
+    public string orderID { get; set; }
+
+    private SnowBoard snowBoard = new SnowBoard();
+
+    public string[] BindingsOption { get; set; } = new[] { "Option1", "Option2", "Option3" };
+    private void OnChangeRadio(ChangeEventArgs args)
+    {
+        snowBoard.BindingOption = args.Value.ToString();
+    }
+
+    protected async override Task OnInitializedAsync()
+    {
+        await base.OnInitializedAsync();
+        snowBoard = await Http.GetFromJsonAsync<SnowBoard>("api/SnowBoards/" + orderID);
+    }
+    protected async Task UpdateOrder()
+    {
+        await Http.PutAsJsonAsync($"api/SnowBoards/{snowBoard.OrderId}", orderID);
+        NavigationManager.NavigateTo("cart");
+    }
+
+    void Cancel()
+    {
+        NavigationManager.NavigateTo("cart");
+    }
+
+}
